@@ -10,7 +10,7 @@ h1 {
   border: 2px solid black;
   margin-left: auto;
   margin-right: auto;
-  background-color: white;
+
 }
 
 #potato img {
@@ -96,7 +96,12 @@ h1 {
 
 
 
-/* Insert CSS for boosters below this line*/
+/* Insert CSS for background below this line*/
+#background {
+  height: 500px;
+  width: 368px;
+  z-index: -1;
+}
 
 
 
